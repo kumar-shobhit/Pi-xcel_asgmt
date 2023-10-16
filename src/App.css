@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.movie-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.movie-card {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 10px;
+  max-width: 200px;
+  text-align: left;
+}
